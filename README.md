@@ -4,13 +4,15 @@ A collection of rough C++ programs that work to replicate [classical ciphers](ht
 
 ## Progress (unsettled):
 
-- ~~Caesar cipher~~
 - ~~Affine cipher~~
 - ~~Atbash cipher~~
+- ~~Backwards cipher~~
+- ~~Caesar cipher~~
 - ~~Null cipher~~
+- ~~Polybius square~~
+- ~~Tokenize with padding~~
 - Book cipher
 - One-time pad
-- ~~Polybius square~~
 - ADFGVX cipher (& ADFGX)
 - Bifid cipher
 - Tap code
