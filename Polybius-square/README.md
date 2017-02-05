@@ -1,6 +1,6 @@
 # Polybius-square:
 
-1. Takes a `choice` using `getChoice()` for either `mode::encrypt` or `mode::decryption`;
+1. Takes a `choice` using `getChoice()` for either `mode::encrypt` or `mode::decrypt`;
 2. For `mode::encrypt`:
 	1. Takes an input string `plaintext` using `getPlaintext()`;
 	2. Removes spaces, punctuation marks, and numbers from `plaintext` (these are unsupported by this classical cipher);
