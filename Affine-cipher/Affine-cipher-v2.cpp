@@ -9,7 +9,7 @@ int gcd(int a, int b);
 void getAB(int & a, int & b);
 bool withinLower(char i);
 bool withinUpper(char i);
-int modInverse(int a, int b); // from https://rosettacode.org/wiki/Modular_inverse#C.2B.2B
+int modInverse(int a); // from https://rosettacode.org/wiki/Modular_inverse#C.2B.2B
 void encryptText(const std::string & input, int a, int b);
 void decryptText(const std::string & input, int a, int b);
 
