@@ -27,4 +27,18 @@
 
 # Polybius-square-v2:
 
+Nearly equivalent to Polybius-square but instead uses mathematics to encrypt and decrypt.
+
+Because numbers and characters are not mapped one-to-one, if an seemingly incorrect coordinate in entered, a character is still returned. For example, if the coordinate `110` is input, `s` is output.
+
 ## Example outputs
+
+	Encrypt or decrypt [e/d] = e
+	Plaintext: She's a witch!
+	43 23 15 43 11 52 24 44 13 23
+	
+---
+
+	Encrypt or decrypt [e/d] = d
+	Coordinates (separate with spaces): 43 23 15 43 11 52 24 44 13 23
+	SHESAWITCH
