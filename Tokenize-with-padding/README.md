@@ -6,10 +6,18 @@
 4. Adds padding so that splitting the `plaintext` results in equal-sized blocks;
 5. Tokenizes the string into `blockSize` blocks.
 
-## Example output
+## Example outputs
 
 	Plaintext: 'Tis but a scratch!
 	Block size: 6
 	Padding character: X
 	
 	'Tisbu tascra tch!XX
+	
+---
+
+	Plaintext: Hello world!
+	Block size: 3
+	Padding character: ^
+	
+	Hel low orl d!^
