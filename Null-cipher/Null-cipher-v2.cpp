@@ -13,7 +13,7 @@ int main(){
 	std::vector<unsigned int> pattern;
 	do{
 		if(words.size() != pattern.size()){
-			std::cout << "\nError: Number of words must be equal to number of integers in pattern.";
+			std::cout << "\nError: Number of words must be equal to number of integers in pattern.\n";
 		}
 		words = tokenize(getWords());
 		pattern = getPattern();
