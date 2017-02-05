@@ -35,6 +35,7 @@ int main(){
 				|| coord[1] - '0' < 1
 				|| coord[1] - '0' > 5){
 				std::cout << "Incorrect coordinates.";
+				break;
 			} else{
 				output.push_back(decrypt(std::stoi(coord)));
 			}
