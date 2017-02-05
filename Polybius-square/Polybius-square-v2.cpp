@@ -35,7 +35,6 @@ int main(){
 				|| coord[1] - '0' < 1
 				|| coord[1] - '0' > 5){
 				std::cout << "Incorrect coordinates.";
-				break;
 			} else{
 				output.push_back(decrypt(std::stoi(coord)));
 			}
@@ -73,6 +72,8 @@ std::string getPlaintext(){
 	rmSpec(plaintext, isspace);
 	rmSpec(plaintext, ispunct);
 	rmSpec(plaintext, isdigit);
+
+	std::transform(plaintext.begin(), plaintext.end(), plaintext.begin(), ::toupper);
 
 	return plaintext;
 }
