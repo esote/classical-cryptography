@@ -40,7 +40,7 @@ This first version does not rotate capital letters or special characters correct
 
 Added correct functionality for special characters (i.e. `!`) and reduced the length of the program. This second version does not rotate capital letters correctly.
 
-## Example output:
+## Example output
 
 	Hello world!
 	
@@ -74,6 +74,8 @@ Added correct functionality for special characters (i.e. `!`) and reduced the le
 # Caesar-cipher-v3:
 
 Added the ability to rotate capital letters. There is also the ability to rotate numbers, but that was left commented out.
+
+## Example output
 
 	Hello world!
 	
