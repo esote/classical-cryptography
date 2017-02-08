@@ -23,7 +23,7 @@
 
 Nearly the same as Null-cipher, but with better `getPattern()` implementation.
 
-## Example outputs:
+## Example outputs
 
 	Seperate words with spaces.
 	Input string: Can one decipher elegantly?
