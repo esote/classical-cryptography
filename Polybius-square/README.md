@@ -1,3 +1,5 @@
+[Wikipedia article on the Polybius square](https://en.wikipedia.org/wiki/Polybius_square).
+
 # Polybius-square:
 
 1. Takes a `choice` using `getChoice()` for either `mode::encrypt` or `mode::decrypt`;
