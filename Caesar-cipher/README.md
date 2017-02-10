@@ -1,3 +1,5 @@
+[Wikipedia article on the Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher).
+
 # Caesar-cipher:
 
 1. Takes `plaintext` using `std::getline()`;
