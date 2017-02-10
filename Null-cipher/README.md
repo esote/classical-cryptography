@@ -1,3 +1,5 @@
+[Wikipedia article on the Null cipher](https://en.wikipedia.org/wiki/Null_cipher).
+
 # Null-cipher:
 
 1. Takes input using `getWords()`;
