@@ -1,3 +1,5 @@
+[Wikipedia article on the Atbash cipher](https://en.wikipedia.org/wiki/Atbash).
+
 # Atbash-cipher:
 
 1. Takes gets each character for the `key`;
