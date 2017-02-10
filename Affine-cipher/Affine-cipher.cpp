@@ -24,13 +24,13 @@ int main(){
 
 	int a, b;
 	do{
+		a = 0, b = 0;
 		std::cout << "\na and b must be coprime\na = ";
 		std::cin >> a;
 		clearInput();
 		std::cout << "b = ";
 		std::cin >> b;
 		clearInput();
-		a = 0, b = 0;
 	} while(std::cin.fail() && gcd(a,b) != 1);
 
 	std::cout << '\n';
