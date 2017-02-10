@@ -1,4 +1,4 @@
-[Wikipedia article on the Affine cipher](https://en.wikipedia.org/wiki/Affine_cipher).
+<a href="https://en.wikipedia.org/wiki/Affine_cipher" target="_blank">Wikipedia article on the Affine cipher</a>.
 
 # Affine-cipher:
 
