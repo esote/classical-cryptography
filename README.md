@@ -11,6 +11,9 @@ A collection of rough C++ programs that work to replicate [classical ciphers](ht
 - ~~Null cipher~~
 - ~~Polybius square~~
 - ~~Tokenize with padding~~
+
+---
+
 - Book cipher
 - One-time pad
 - ADFGVX cipher (& ADFGX)
