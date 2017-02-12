@@ -1,6 +1,6 @@
 # Classical cryptography
 
-A collection of rough C++ programs that work to replicate [classical ciphers](https://en.wikipedia.org/wiki/Classical_cipher). These programs are quite rough, and often can be improved vastly. I am just learning the C++ language, so bear with me. Programs are tested on Ubuntu 16.04 and compiled using `g++` with C++14.
+A collection of C++ programs that work to replicate [classical ciphers](https://en.wikipedia.org/wiki/Classical_cipher). These programs are quite rough, and often can be improved vastly. Programs are tested on Ubuntu 16.04 and compiled using `g++` with C++14.
 
 ## Progress (unsettled):
 
