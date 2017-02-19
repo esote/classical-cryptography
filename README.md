@@ -4,15 +4,19 @@ A collection of C++ programs that work to replicate [classical ciphers](https://
 
 ## Progress (unsettled):
 
-- ~~Affine cipher~~
-- ~~Atbash cipher~~
-- ~~Backwards cipher~~
-- ~~Caesar cipher~~
-- ~~Null cipher~~
-- ~~Polybius square~~
-- ~~Tokenize with padding~~
+#### Finished:
+
+- Affine cipher
+- Atbash cipher
+- Backwards cipher
+- Caesar cipher
+- Null cipher
+- Polybius square
+- Tokenize with padding
 
 ---
+
+#### Not:
 
 - Book cipher
 - One-time pad
