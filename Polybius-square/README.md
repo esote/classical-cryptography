@@ -12,7 +12,7 @@
 	For `mode::decrypt`:
 	
 	1. Takes the coordinates (used as integers) as a vector of strings using `getCoords()`;
-	2. Using a range-based loop, assigns each member of the `coords` vector to a corresponding integer in an array of chracters `squareIJ`;
+	2. Using a range-based loop, assigns each member of the `coords` vector to a corresponding integer in an array of characters `squareIJ`;
 	3. Prints each resulting character individually.
 
 ## Example outputs
@@ -31,7 +31,7 @@
 
 Nearly equivalent to Polybius-square but instead uses mathematics to encrypt and decrypt.
 
-Because numbers and characters are not mapped one-to-one, if an seemingly incorrect coordinate in entered, a character is still returned. For example, if the coordinate `110` is input, `s` is output.
+Because numbers and characters are not mapped one-to-one, if a seemingly incorrect coordinate in entered, a character is still returned. For example, if the coordinate `110` is input, `s` is output.
 
 ## Example outputs
 
