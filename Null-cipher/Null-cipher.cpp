@@ -31,7 +31,7 @@ int main(){
 }
 
 std::string getWords(){
-	std::cout << "Seperate words with spaces.\nInput string: ";
+	std::cout << "Separate words with spaces.\nInput string: ";
 	std::string wordsString;
 	std::getline(std::cin, wordsString);
 	return wordsString;
@@ -51,7 +51,7 @@ std::vector<unsigned int> getPattern(){
 	std::vector<std::string> preTokenizedPattern;
 	bool validPattern;
 	do{
-		std::cout << "Seperate positive integers with spaces: ";
+		std::cout << "Separate positive integers with spaces: ";
 		std::getline(std::cin, pattern);
 		preTokenizedPattern = tokenize(pattern);
 		try{
