@@ -2,7 +2,7 @@
 
 A collection of C++ programs that work to replicate [classical ciphers](https://en.wikipedia.org/wiki/Classical_cipher). These programs are quite rough, and often can be improved vastly. Programs are tested on Ubuntu 16.04 and compiled using `g++` with C++14.
 
-## Progress (unsettled):
+## Progress (unsettled)
 
 #### Finished:
 
@@ -16,7 +16,7 @@ A collection of C++ programs that work to replicate [classical ciphers](https://
 
 ---
 
-#### Not:
+#### Not
 
 - Book cipher
 - One-time pad
