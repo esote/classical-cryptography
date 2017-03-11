@@ -1,6 +1,6 @@
 [Wikipedia article on the Null cipher](https://en.wikipedia.org/wiki/Null_cipher).
 
-# Null-cipher:
+# Null-cipher
 
 1. Takes input using `getWords()`;
 2. Tokenizes the string of words into a vector;
@@ -21,7 +21,7 @@
 	Seperate positive integers with spaces: 1 2 3 1 2 3 1 2 3 1 2
 	SailatSevEn
 	
-# Null-cipher-v2:
+# Null-cipher-v2
 
 Nearly the same as Null-cipher, but with better `getPattern()` implementation.
 
