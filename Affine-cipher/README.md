@@ -1,6 +1,6 @@
 [Wikipedia article on the Affine cipher](https://en.wikipedia.org/wiki/Affine_cipher).
 
-# Affine-cipher:
+# Affine-cipher
 
 1. Takes `choice` to choose either encryption or decryption;
 2. Gets `input` and passes it through a mathematical function (still substitution);
@@ -30,7 +30,7 @@
 
 	'Tis but a scratch!
 	
-# Affine-cipher-v2:
+# Affine-cipher-v2
 
 Does what Affine-cipher did, just in a cleaner way.
 
