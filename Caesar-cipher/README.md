@@ -1,6 +1,6 @@
 [Wikipedia article on the Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher).
 
-# Caesar-cipher:
+# Caesar-cipher
 
 1. Takes `plaintext` using `std::getline()`;
 2. Rotates each character individually through two `for` loops.
@@ -38,7 +38,7 @@ This first version does not rotate capital letters or special characters correct
 	ROT24 - RcjjmRumpjbR
 	ROT25 - RdkknRvnqkcR
 	
-# Caesar-cipher-v2:
+# Caesar-cipher-v2
 
 Added correct functionality for special characters (i.e. `!`) and reduced the length of the program. This second version does not rotate capital letters correctly.
 
@@ -73,7 +73,7 @@ Added correct functionality for special characters (i.e. `!`) and reduced the le
 	ROT24 - Hcjjm umpjb!
 	ROT25 - Hdkkn vnqkc!
 	
-# Caesar-cipher-v3:
+# Caesar-cipher-v3
 
 Added the ability to rotate capital letters. There is also the ability to rotate numbers, but that was left commented out.
 
