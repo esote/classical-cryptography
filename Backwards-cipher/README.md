@@ -1,4 +1,4 @@
-# Backwards-cipher:
+# Backwards-cipher
 
 Prints a string backwards. The backwards cipher is usually used in conjunction with other ciphers for better security.
 
