@@ -1,6 +1,6 @@
 [Wikipedia article on the Atbash cipher](https://en.wikipedia.org/wiki/Atbash).
 
-# Atbash-cipher:
+# Atbash-cipher
 
 1. Takes gets each character for the `key`;
 2. Takes the message;
@@ -42,7 +42,7 @@ This version has checking to ensure that no characters are repeated in the `key`
 	Message: Hello world!
 	Dsvvb kbnvw!
 	
-# Atbash-cipher-v2:
+# Atbash-cipher-v2
 
 This version is functionally identical to the Affine-cipher, but takes the key as a string, and does not implement checking to ensure no repeated characters.
 
