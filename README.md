@@ -4,7 +4,7 @@ A collection of C++ programs that work to replicate [classical ciphers](https://
 
 ## Progress (unsettled)
 
-#### Finished:
+### Finished:
 
 - Affine cipher
 - Atbash cipher
@@ -16,7 +16,7 @@ A collection of C++ programs that work to replicate [classical ciphers](https://
 
 ---
 
-#### Not
+### Not
 
 - Book cipher
 - One-time pad
