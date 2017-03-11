@@ -1,6 +1,6 @@
 [Wikipedia article on tokenization as it refers to lexical analysis](https://en.wikipedia.org/wiki/Tokenization_(lexical_analysis)).
 
-# Tokenize-with-padding:
+# Tokenize-with-padding
 
 1. Takes an input string `plaintext` using `getPlaintext()`;
 2. Takes a block size `blockSize` using `getBlocksize()`;
