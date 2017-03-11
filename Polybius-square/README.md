@@ -1,6 +1,6 @@
 [Wikipedia article on the Polybius square](https://en.wikipedia.org/wiki/Polybius_square).
 
-# Polybius-square:
+# Polybius-square
 
 1. Takes a `choice` using `getChoice()` for either `mode::encrypt` or `mode::decrypt`;
 2. For `mode::encrypt`:
@@ -27,7 +27,7 @@
 	Coordinates (separate with spaces): 44 24 43 12 45 44 11 43 13 42 11 44 13 23
 	TISBUTASCRATCH
 
-# Polybius-square-v2:
+# Polybius-square-v2
 
 Nearly equivalent to Polybius-square but instead uses mathematics to encrypt and decrypt.
 
