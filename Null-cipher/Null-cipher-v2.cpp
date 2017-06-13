@@ -53,7 +53,7 @@ std::vector<unsigned int> getPattern(){
 		std::cout << "Separate positive integers with spaces: ";
 		std::getline(std::cin, pattern);
 		try{
-			// Change std::string to vector of type <unisgned int>
+			// Change std::string to vector of type <unsigned int>
 			std::stringstream streamPattern(pattern);
 			std::transform(std::istream_iterator<std::string>{streamPattern},
 				std::istream_iterator<std::string>{}, 
