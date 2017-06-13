@@ -55,7 +55,7 @@ std::vector<unsigned int> getPattern(){
 		std::getline(std::cin, pattern);
 		preTokenizedPattern = tokenize(pattern);
 		try{
-			// Change std::string to vector of type <unisgned int>
+			// Change std::string to vector of type <unsigned int>
 			std::transform(preTokenizedPattern.begin(), preTokenizedPattern.end(), 
 				std::back_inserter(tokenizedPattern), 
 				[](const std::string & str){
